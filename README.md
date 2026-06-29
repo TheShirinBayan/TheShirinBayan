@@ -1,5 +1,4 @@
-## Hi there 👋
-
+<p align="center">A new programmer in this world!</p>
 <!--
 **TheShirinBayan/TheShirinBayan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
